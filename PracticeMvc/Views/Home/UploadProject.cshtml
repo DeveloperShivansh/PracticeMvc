@@ -1,0 +1,11 @@
+﻿@model PracticeMvc.Models.SimpleProjectViewModel
+
+<h1>Upload Your Files</h1>
+
+    @using(@Html.BeginForm()){
+        <form asp-controller="Home" asp-action="UploadProject" method="post" enctype="multipart/form-data">
+            <input type="text" asp-for="Name"/>
+            <input type="file" asp-for="Files" multiple/>
+            <button type="submit">Save</button>
+        </form>
+    }
