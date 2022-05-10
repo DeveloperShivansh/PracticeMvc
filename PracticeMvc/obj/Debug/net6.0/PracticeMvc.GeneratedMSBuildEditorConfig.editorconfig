@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PracticeMvc
 build_property.RootNamespace = PracticeMvc
-build_property.ProjectDir = C:\Users\shivansh_shrivastava\source\repos\PracticeMvc\PracticeMvc\
+build_property.ProjectDir = D:\Projects And Development\Projects\Practice Project\PracticeMvc\PracticeMvc\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\shivansh_shrivastava\source\repos\PracticeMvc\PracticeMvc
+build_property.MSBuildProjectDirectory = D:\Projects And Development\Projects\Practice Project\PracticeMvc\PracticeMvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/shivansh_shrivastava/source/repos/PracticeMvc/PracticeMvc/Views/Home/Index.cshtml]
+[D:/Projects And Development/Projects/Practice Project/PracticeMvc/PracticeMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shivansh_shrivastava/source/repos/PracticeMvc/PracticeMvc/Views/Home/Privacy.cshtml]
+[D:/Projects And Development/Projects/Practice Project/PracticeMvc/PracticeMvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shivansh_shrivastava/source/repos/PracticeMvc/PracticeMvc/Views/Home/UploadProject.cshtml]
+[D:/Projects And Development/Projects/Practice Project/PracticeMvc/PracticeMvc/Views/Home/UploadProject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGxvYWRQcm9qZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shivansh_shrivastava/source/repos/PracticeMvc/PracticeMvc/Views/Shared/Error.cshtml]
+[D:/Projects And Development/Projects/Practice Project/PracticeMvc/PracticeMvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shivansh_shrivastava/source/repos/PracticeMvc/PracticeMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Projects And Development/Projects/Practice Project/PracticeMvc/PracticeMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shivansh_shrivastava/source/repos/PracticeMvc/PracticeMvc/Views/_ViewImports.cshtml]
+[D:/Projects And Development/Projects/Practice Project/PracticeMvc/PracticeMvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shivansh_shrivastava/source/repos/PracticeMvc/PracticeMvc/Views/_ViewStart.cshtml]
+[D:/Projects And Development/Projects/Practice Project/PracticeMvc/PracticeMvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/shivansh_shrivastava/source/repos/PracticeMvc/PracticeMvc/Views/Shared/_Layout.cshtml]
+[D:/Projects And Development/Projects/Practice Project/PracticeMvc/PracticeMvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2f9jg0sis1

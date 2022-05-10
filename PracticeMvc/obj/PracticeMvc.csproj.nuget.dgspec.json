@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shivansh_shrivastava\\source\\repos\\PracticeMvc\\PracticeMvc\\PracticeMvc.csproj": {}
+    "D:\\Projects And Development\\Projects\\Practice Project\\PracticeMvc\\PracticeMvc\\PracticeMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shivansh_shrivastava\\source\\repos\\PracticeMvc\\PracticeMvc\\PracticeMvc.csproj": {
+    "D:\\Projects And Development\\Projects\\Practice Project\\PracticeMvc\\PracticeMvc\\PracticeMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shivansh_shrivastava\\source\\repos\\PracticeMvc\\PracticeMvc\\PracticeMvc.csproj",
+        "projectUniqueName": "D:\\Projects And Development\\Projects\\Practice Project\\PracticeMvc\\PracticeMvc\\PracticeMvc.csproj",
         "projectName": "PracticeMvc",
-        "projectPath": "C:\\Users\\shivansh_shrivastava\\source\\repos\\PracticeMvc\\PracticeMvc\\PracticeMvc.csproj",
-        "packagesPath": "C:\\Users\\shivansh_shrivastava\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shivansh_shrivastava\\source\\repos\\PracticeMvc\\PracticeMvc\\obj\\",
+        "projectPath": "D:\\Projects And Development\\Projects\\Practice Project\\PracticeMvc\\PracticeMvc\\PracticeMvc.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects And Development\\Projects\\Practice Project\\PracticeMvc\\PracticeMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shivansh_shrivastava\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

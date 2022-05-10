@@ -41,7 +41,8 @@ namespace PracticeMvc.Controllers
             }
             else
             {
-                Console.WriteLine("Files Count: ", m.Files.Count);
+                Console.WriteLine("Name: " + m.Name);
+                Console.WriteLine("Files Count: " + m.Files.Count);
             }
             if (!ModelState.IsValid)
             {
