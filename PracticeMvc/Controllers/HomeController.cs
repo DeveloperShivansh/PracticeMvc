@@ -35,18 +35,18 @@ namespace PracticeMvc.Controllers
         [HttpPost]
         public IActionResult UploadProject(SimpleProjectViewModel m)
         {
-            if(m.Files == null)
+            if (ModelState.IsValid)
             {
-                Console.WriteLine("No Files Found In Model");
-            }
-            else
-            {
-                Console.WriteLine("Name: " + m.Name);
-                Console.WriteLine("Files Count: " + m.Files.Count);
-            }
-            if (!ModelState.IsValid)
-            {
-                Console.WriteLine("Model State is Found To be Valid");
+                if(m.Files != null)
+                {
+                    Console.WriteLine("Name: " + m.Name);
+                    Console.Write("Files: ");
+                    foreach(var file in m.Files)
+                    {
+                        Console.Write(file.FileName + ", ");
+                    }
+
+                }
             }
             return View();
         }

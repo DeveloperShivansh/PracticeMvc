@@ -3,13 +3,7 @@
 <h1>Upload Your Files</h1>
 
 @using(@Html.BeginForm("UploadProject", "Home", FormMethod.Post, new { enctype="multipart/form-data" })){
-    @*<form asp-controller="Home" asp-action="UploadProject" method="post" enctype="multipart/form-data">
-            <input type="text" asp-for="Name"/>
-            <input type="file" asp-for="Files" multiple/>
-            <button type="submit">Save</button>
-        </form>*@
-
         @Html.EditorFor(m => m.Name);
         @Html.EditorFor(m => m.Files);
         <button type="submit">Save</button>
-    }
+}
